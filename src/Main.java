@@ -23,7 +23,6 @@ public class Main {
 
         while (run) {
             System.out.println("""
-                    dfadsf
                     Что хотите сделать?
                     1)изменить способ сохранения
                     2)изменить способ вывода
